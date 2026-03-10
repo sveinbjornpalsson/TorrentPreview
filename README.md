@@ -43,3 +43,5 @@ qlmanage -r
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
+
+Buy me a coffee - https://ko-fi.com/sveinbjornp
